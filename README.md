@@ -7,4 +7,4 @@
 
 ***
 # References
-- [GitHub: WizNet IoT shield arduino](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr)
+- [GitHub: WIZNet IoT shield arduino](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr)
