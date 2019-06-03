@@ -8,7 +8,7 @@
 
 ***
 
-## 2. 아루두이노 .ino 업로드하기
+## 2. 아루두이노 .ino 파일 업로드하기
 
 - [다운로드 파일: f_WIoT-QC01_Arduino_MQTT_SEND.ino ](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/02_Codes/f_WIoT-QC01_Arduino_MQTT_SEND.ino)
 
