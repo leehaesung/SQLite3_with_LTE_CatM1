@@ -18,6 +18,7 @@
 ## 3. 데이타분석
 
 - [Jupyter Web Viewer](https://nbviewer.jupyter.org/github/leehaesung/SQLite3_with_LTE_CatM1/blob/master/02_Codes/SQLite3_with_LTE_CatM1_Temp_Sensor_MQTT_VER_0.2.ipynb)
+- [Jupyter notebook](https://github.com/leehaesung/SQLite3_with_LTE_CatM1/blob/master/02_Codes/SQLite3_with_LTE_CatM1_Temp_Sensor_MQTT_VER_0.2.ipynb)
 
 ***
 
