@@ -1,8 +1,9 @@
 # SQLite3 & Temperature Sensor on LTE CatM1(WIZnet)
 
 ***
+### Setting
 
-![image01](https://github.com/leehaesung/SQLite3_with_LTE_CatM1/raw/master/01_Images/wiot-shield-qc01-arduinomega2560.png)
+![image01](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/01_Setting.png)
 
 
 ***
