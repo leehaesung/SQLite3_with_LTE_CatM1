@@ -1,5 +1,5 @@
 /**************************************************************************
- - Date: 3rd June Dec 2019
+ - Date: 3rd June 2019
  - Edited by Haesung Lee
  - Added some codes for JSON format:
       L11: #include <ArduinoJson.h> 
