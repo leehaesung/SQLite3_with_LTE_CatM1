@@ -24,6 +24,7 @@
 
 ![image02](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/03_Jupyter_notebook.png)
 ![image03](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/02_Jupyter_notebook.png)
+![image04](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_1.png)
 
 ***
 
