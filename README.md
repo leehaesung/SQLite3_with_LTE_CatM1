@@ -1,6 +1,9 @@
 ## 주피터 노트북(파이썬)에서 실시간 온도 데이타를 SQL에 저장하고 시계열분석
 
-* SKT텔레콤 5G LTE Cat.M1을 지원하는 WIZnet 개발보드입니다.
+## 0. 개발보드 정보
+
+* SKT텔레콤 5G LTE Cat.M1은 [BG96 IoT통신모듈](https://www.sktiot.com/iot/introduction/network/networkCatM1Main5)이 내장된 [WIZnet](https://www.wiznet.io/ko/) 개발보드입니다.
+* 5G LTE [Cat.M1/LTE-M 기본 요금제](https://www.sktiot.com/iot/introduction/paymentSystem/paymentSystemCatM1)는 링크에 연결했습니다. 
 
 ## 1. 셋팅하기
 
