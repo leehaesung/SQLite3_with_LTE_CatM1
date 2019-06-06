@@ -28,7 +28,7 @@
 ***
 
 ## 4. 데이타 분석
-* WIZnet IoT 개발보드에 있는 디지탈 온도센서를 이용해서 사무실의 온도를 측정, 수집, SQL쿼리, 그리고 딥러닝플랫폼 케라스로 분석합니다. 
+* WIZnet IoT 개발보드에 있는 디지탈 온도센서를 이용해서 사무실의 온도를 측정, 수집, SQL쿼리, 그리고 [케라스(딥러닝플랫폼)](https://keras.io/)로 분석합니다. 
 * 전통적인 시계열 분석, 딥러닝 분석(RNN, LSTM)
 
 - [Jupyter Web Viewer](https://nbviewer.jupyter.org/github/leehaesung/SQLite3_with_LTE_CatM1/blob/master/02_Codes/SQLite3_with_LTE_CatM1_Temp_Sensor_MQTT_VER_0.4.ipynb)  (주의! 스크롤링 압박이 올수 있음)
