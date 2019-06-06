@@ -5,8 +5,8 @@
 ***
 
 * SKT텔레콤 5G LTE Cat.M1은 [BG96 IoT통신모듈](https://www.sktiot.com/iot/introduction/network/networkCatM1Main5)이 내장된 [WIZnet](https://www.wiznet.io/ko/) 개발보드입니다.
-* [WIZnet IoT shield 랜딩 페이지: 다양한 하드웨어 플랫폼에서 활용 할 수 있는 예제 코드와 시작 가이드 및 어플리케이션 노트 등의 문서를 제공합니다.](https://github.com/Wiznet/wiznet-iot-shield-kr)
-* [WIZnet IoT shield 하드웨어 페이지는 Pinout, layout, Schematic, Gerber, BOM 등 포함합니다.](https://github.com/Wiznet/wiznet-iot-shield-kr)
+* [WIZnet IoT shield 랜딩 페이지 다양한 하드웨어 플랫폼에서 활용 할 수 있는 예제 코드와 시작 가이드 및 어플리케이션 노트 등의 문서를 제공합니다.](https://github.com/Wiznet/wiznet-iot-shield-kr)
+* [WIZnet IoT shield 하드웨어 가이드는 Pinout, layout, Schematic, Gerber, BOM 등 포함합니다.](https://github.com/Wiznet/wiznet-iot-shield-kr)
 * [WIZnet IoT Shield for Arduino(아루두이노) 플랫폼 개발 가이드](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr)
 * [WIZnet IoT Shield for Raspberry Pi(라즈베리파이) 플랫폼 개발 가이드](https://github.com/Wiznet/wiznet-iot-shield-raspberrypi-kr)
 * SKT텔레콤 5G LTE [Cat.M1/LTE-M 기본 IoT 요금제 리스트](https://www.sktiot.com/iot/introduction/paymentSystem/paymentSystemCatM1)입니다. 
