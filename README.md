@@ -3,7 +3,7 @@
 ## 0. 개발보드 정보
 
 * SKT텔레콤 5G LTE Cat.M1은 [BG96 IoT통신모듈](https://www.sktiot.com/iot/introduction/network/networkCatM1Main5)이 내장된 [WIZnet](https://www.wiznet.io/ko/) 개발보드입니다.
-* 5G LTE [Cat.M1/LTE-M 기본 요금제(월9900원 부터)](https://www.sktiot.com/iot/introduction/paymentSystem/paymentSystemCatM1)입니다. 
+* 5G LTE [Cat.M1/LTE-M 기본 IoT 요금제(월9900원 부터)](https://www.sktiot.com/iot/introduction/paymentSystem/paymentSystemCatM1)입니다. 
 
 ## 1. 셋팅하기
 
