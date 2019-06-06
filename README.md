@@ -1,4 +1,4 @@
-# Jupyter 노트북(파이썬)에서 실시간 온도 데이타를 SQL에 저장하고 시계열분석
+# Jupyter 노트북(Python)에서 실시간 온도 데이타를 SQL에 저장하고 시계열분석
 
 ## 1. WIZnet IoT Cat.M1 개발보드 정보
 
