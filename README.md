@@ -1,6 +1,12 @@
 # Jupyter 노트북(Python)에서 실시간 온도 데이타를 SQL에 저장하고 시계열분석
 
-## 1. WIZnet IoT Cat.M1 개발보드 정보
+## 1. 전체 프레임워크
+
+***
+![TotalFramework](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Framework_LTE_CatM1_MQTT.png)
+
+
+## 2. WIZnet IoT Cat.M1 개발보드 정보
 
 ***
 
@@ -12,7 +18,7 @@
 * Arm Mbed WIZnet IoT 쉴드 플랫폼 개발 가이드 [[GitHub]](https://github.com/Wiznet/wiznet-iot-shield-mbed-kr), [[Wiki문서]](https://github.com/Wiznet/wiznet-iot-shield-mbed-kr/wiki), [[YouTube]](https://youtu.be/bsrNez7uaf8)
 * SKT텔레콤 5G LTE [Cat.M1/LTE-M 기본 IoT 요금제 리스트](https://www.sktiot.com/iot/introduction/paymentSystem/paymentSystemCatM1)입니다. 
 
-## 2. 개발보드조립 및 점퍼셋팅하기
+## 3. 개발보드조립 및 점퍼셋팅하기
 
 ***
 
@@ -20,7 +26,7 @@
 
 ***
 
-## 3. 아루두이노 .ino 파일 업로드하기
+## 4. 아루두이노 .ino 파일 업로드하기
 
 - [.ino 파일: f_WIoT-QC01_Arduino_MQTT_SEND_JSON.ino(소스코드)[GitHub]](https://github.com/leehaesung/SQLite3_with_LTE_CatM1/raw/master/02_Codes/f_WIoT-QC01_Arduino_MQTT_SEND_JSON.ino)
 - 업로드 하기전에 [Arduino 기반의 Cat.M1 MQTT 테스트 가이드[GitHub]](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr/blob/master/docs/Arduino_guide_qc-bg96_mqtt.md)를 습득하시기 바랍니다.
@@ -28,7 +34,7 @@
 
 ***
 
-## 4. 데이타 분석
+## 5. 데이타 분석
 * WIZnet IoT 개발보드에 있는 디지탈 온도센서를 이용해서 사무실의 온도를 측정, 수집, SQL쿼리, 그리고 [케라스(딥러닝플랫폼)](https://keras.io/)로 분석합니다. 
 * 전통적인 시계열 분석, 딥러닝 분석(RNN, LSTM)
 
