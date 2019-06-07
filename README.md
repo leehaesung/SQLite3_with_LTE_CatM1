@@ -38,8 +38,8 @@
 * WIZnet IoT 개발보드에 있는 디지탈 온도센서를 이용해서 사무실의 온도를 측정, 수집, SQL쿼리, 그리고 [케라스(딥러닝플랫폼)](https://keras.io/)로 분석합니다. 
 * 전통적인 시계열 분석, 딥러닝 분석(RNN, LSTM)
 
-- [Jupyter Web Viewer(소스코드)](https://nbviewer.jupyter.org/github/leehaesung/SQLite3_with_LTE_CatM1/blob/master/02_Codes/SQLite3_with_LTE_CatM1_Temp_Sensor_MQTT_VER_0.4.ipynb) 
-- [Jupyter notebook(소스코드)](https://github.com/leehaesung/SQLite3_with_LTE_CatM1/blob/master/02_Codes/SQLite3_with_LTE_CatM1_Temp_Sensor_MQTT_VER_0.4.ipynb)
+- [Jupyter Web Viewer(소스코드)](https://nbviewer.jupyter.org/github/leehaesung/SQLite3_with_LTE_CatM1/blob/master/02_Codes/SQLite3_with_LTE_CatM1_Temp_Sensor_MQTT_VER_0.5.ipynb) 
+- [Jupyter notebook(소스코드)](https://github.com/leehaesung/SQLite3_with_LTE_CatM1/blob/master/02_Codes/SQLite3_with_LTE_CatM1_Temp_Sensor_MQTT_VER_0.5.ipynb)
 
 - [Data sets: temp_catm1.csv(온도 데이타셋)](https://github.com/leehaesung/SQLite3_with_LTE_CatM1/raw/master/03_DataSets/temp_catm1.csv)
 
