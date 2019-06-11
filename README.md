@@ -16,7 +16,7 @@
 * Arduino(아루두이노) WIZnet IoT 쉴드 플랫폼 개발 가이드 [[GitHub]](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr), [[Wiki문서]](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr/wiki), [[YouTube]](https://youtu.be/BCkNTRGBWxE)
 * Raspberry Pi(라즈베리파이) WIZnet IoT 쉴드 플랫폼 개발 가이드 [[GitHub]](https://github.com/Wiznet/wiznet-iot-shield-raspberrypi-kr), [[Wiki문서]](https://github.com/Wiznet/wiznet-iot-shield-raspberrypi-kr/wiki), [[YouTube]](https://youtu.be/yERjOIvN7sE)
 * Arm Mbed WIZnet IoT 쉴드 플랫폼 개발 가이드 [[GitHub]](https://github.com/Wiznet/wiznet-iot-shield-mbed-kr), [[Wiki문서]](https://github.com/Wiznet/wiznet-iot-shield-mbed-kr/wiki), [[YouTube]](https://youtu.be/bsrNez7uaf8)
-* SKT텔레콤 5G LTE [Cat.M1/LTE-M 기본 IoT 요금제 리스트](https://www.sktiot.com/iot/introduction/paymentSystem/paymentSystemCatM1)입니다. 
+* SKT텔레콤 LTE [Cat.M1/LTE-M 기본 IoT 요금제 리스트](https://www.sktiot.com/iot/introduction/paymentSystem/paymentSystemCatM1)입니다. 
 
 ## 3. 개발보드조립 및 점퍼셋팅하기
 
