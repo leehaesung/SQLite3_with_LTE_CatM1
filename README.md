@@ -60,6 +60,7 @@
 # 5. References
 - [GitHub: WIZNet IoT shield arduino](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr)
 - [Cat.M1 연결형보드 관련 자료 공개](https://www.g.camp/713)
+- [Kaggle: RNN For Beginners](https://www.kaggle.com/rstogi896/rnn-for-beginners)
 - [How to Install SQLite On Windows/ Linux / Mac OS X](http://www.codebind.com/sqlite/how-to-install-sqlite-on/)
 - [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/)
 - [SQLite Quick Guide](https://www.tutorialspoint.com/sqlite/sqlite_quick_guide.htm)
