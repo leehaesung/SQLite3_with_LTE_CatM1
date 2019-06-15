@@ -45,7 +45,7 @@
 
 ![image08](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_8.png)
  
- ... more data ...
+ There is more data inside.
 
 ![image07](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_5.png)
 ![image04](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_2.png)
