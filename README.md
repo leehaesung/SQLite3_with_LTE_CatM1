@@ -29,6 +29,7 @@
 ## 4. 아루두이노 .ino 파일 업로드하기
 
 - [.ino 파일: f_WIoT-QC01_Arduino_MQTT_SEND_JSON.ino(소스코드)[GitHub]](https://github.com/leehaesung/SQLite3_with_LTE_CatM1/raw/master/02_Codes/f_WIoT-QC01_Arduino_MQTT_SEND_JSON.ino)
+  - Added JSON format for Server protocol.
 - 업로드 하기전에 [Arduino 기반의 Cat.M1 MQTT 테스트 가이드[GitHub]](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr/blob/master/docs/Arduino_guide_qc-bg96_mqtt.md)를 습득하시기 바랍니다.
 - 업로드끝나면 CatM1 보드의 오른쪽 전원(SW1 PWRKEY)을 켜주고 시리얼모니터에서 온도 데이타가 나오는지 확인합니다.
 
