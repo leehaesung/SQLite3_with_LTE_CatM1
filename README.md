@@ -56,6 +56,7 @@ SKT텔레콤 LTE Cat.M1은 BG96 IoT통신모듈이 내장된 WIZnet 개발보드
 ![image06](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_6.png)
 ![image07](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_1.png)
 ![image08](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_7.png)
+![image09](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Figure_9.png)
 
 ***
 
