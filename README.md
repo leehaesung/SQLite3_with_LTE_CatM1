@@ -1,4 +1,4 @@
-# 주피터 파이썬 노트북에서 실시간 온도 데이타를 SQL에 저장하고 데이터(전통시계열,RNN,LSTM)분석하기
+# 주피터 파이썬 노트북에서 실시간 온도 데이타를 SQL에 저장하고 (전통시계열,RNN,LSTM)분석하기
 
 ## 1. 전체 프레임워크
 
@@ -8,7 +8,7 @@ SKT텔레콤 LTE Cat.M1은 BG96 IoT통신모듈이 내장된 WIZnet 개발보드
 ![TotalFramework](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Framework_LTE_CatM1_MQTT.png)
 
 
-## 2. WIZnet IoT Cat.M1 개발H/W보드 정보
+## 2. WIZnet IoT Cat.M1 개발 H/W 보드 정보
 
 ***
 
