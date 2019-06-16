@@ -2,11 +2,13 @@
 
 ## 1. 전체 프레임워크
 
+SKT텔레콤 LTE Cat.M1은 BG96 IoT통신모듈이 내장된 WIZnet 개발보드와 디지털 온도센서로 사무실 온도를 MQTT프로토콜로 데이터 수집, SQL에 저장, CVS파일 추출, 그리고 데이타분석(시계열분석, RNN, LSTM)을 주피터 노트북에서 구현함
+
 ***
 ![TotalFramework](https://raw.githubusercontent.com/leehaesung/SQLite3_with_LTE_CatM1/master/01_Images/Framework_LTE_CatM1_MQTT.png)
 
 
-## 2. WIZnet IoT Cat.M1 개발보드 정보
+## 2. WIZnet IoT Cat.M1 개발H/W보드 정보
 
 ***
 
